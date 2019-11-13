@@ -15,7 +15,7 @@
 
 ### Development
 
-- [ ] Tslint rules pass locally
+- [ ] Lint rules pass locally
 - [ ] The code changed/added as part of this pull request has been covered with tests
 - [ ] All tests related to the changed code pass in development
 
@@ -23,4 +23,5 @@
 
 - [ ]  This pull request has a descriptive title and information useful to a reviewer. There may be a screenshot or screencast attached
 - [ ] "Ready for review" label attached to the PR and reviewers mentioned in a comment
-- [ ] Changes have been reviewed by at least one other engineer- [ ] Issue from task tracker has a link to this pull request 
+- [ ] Changes have been reviewed by at least one other engineer
+- [ ] Issue from task tracker has a link to this pull request 
