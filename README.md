@@ -1,2 +1,1 @@
-# sdlc-templates
-Templates for pull requests and issues
+# Kustomer Template Repo
