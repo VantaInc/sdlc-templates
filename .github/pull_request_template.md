@@ -20,8 +20,13 @@
 
 ### Security
 
-- [ ] Security impact of change has been considered
+- [ ] Security impact of change has been considered 
 - [ ] Code follows company security practices and guidelines
+
+### Network
+
+- [ ] Network configurations have been reviewed
+- [ ] Newly exposed public endpoints and data have been reviewed
 
 ### Code review 
 
