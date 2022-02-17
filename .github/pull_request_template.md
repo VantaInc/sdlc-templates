@@ -23,6 +23,11 @@
 - [ ] Security impact of change has been considered
 - [ ] Code follows company security practices and guidelines
 
+### Network
+
+- [ ] Changes to network configurations have been reviewed
+- [ ] Any newly exposed public endpoints or data have gone through security review
+
 ### Code review 
 
 - [ ] Pull request has a descriptive title and context useful to a reviewer. Screenshots or screencasts are attached as necessary
